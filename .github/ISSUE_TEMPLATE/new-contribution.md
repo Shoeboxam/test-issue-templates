@@ -1,15 +1,15 @@
 ---
-name: New contribution
+name: New Contribution
 about: Solicit feedback on a contribution you'd like to make.
 
 ---
+How exciting!
 
-Please provide a clear description of your potential contribution. 
-Link(s) to research papers are helpful.
-We will get back to you shortly!
+Please review the following link for information to include in your issue:
+https://docs.opendp.org/en/develop/developer/intro.html#code-and-proof-contributions.html
 
-When you do make a branch:  
-Feature branches have the naming scheme `<nnn>-<short-desc>`, 
-where `<nnn>` is the number of this GitHub issue, 
-and `<short-desc>` is a short description of the change. 
-For instance, `123-new-measurement`.
+We will try to get back with you shortly.
+
+In the meantime, you might want to review the contribution process:  
+https://docs.opendp.org/en/develop/developer/contribution-process.html  
+(and start getting your development environment set up)
